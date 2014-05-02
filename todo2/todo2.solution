@@ -1,0 +1,12 @@
+touch janel.txt 
+cat >> janel.txt
+My name is Janel
+I like banh mi
+I live in Greenpoint
+ctrl C
+cat janel.txt
+cp janel.txt janelcopy.txt
+mv janelcopy.txt stevenrules.txt
+cat janel.txt stevenrules.txt >> everything.txt
+cat >> everything.txt
+find *.txt > textfileslist
